@@ -7,3 +7,14 @@ I am having import mysql.connector error. What libraries do I need to install on
 Fix: 
 pip3 install mysql-connector-python
 
+# To run the codes for all the tables:
+
+# python createDB.py
+
+# python dropDB.py
+
+# python droptable.py 
+
+and so on.
+
+
